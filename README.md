@@ -1,2 +1,3 @@
 # Look-Out-For-Me-Public
-Public repo for Look Out For Me issue tracking
+
+This repo is a public repo for issue tracking of the Look Out For Me mobile app
